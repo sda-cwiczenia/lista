@@ -8,7 +8,7 @@ public class Lista {
         System.out.println("4. Lukasz Zawadzki");
         System.out.println("5. Lukasz Nowacki");
         System.out.println("6. Maciej Dzieciuchowicz");
-        System.out.println("7.Dawid Ruciński");
+        System.out.println("7. Dawid Ruciński");
         System.out.println("8. Mateusz Filipek");
         System.out.println("9. Anna Ginter");
         System.out.println("10. Angelika Adamczewska");
