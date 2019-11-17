@@ -4,6 +4,5 @@ public class Lista {
         System.out.println("---------------");
         System.out.println("1. Ireneusz Piątkowski ");
         System.out.println("2. Daniel Kazanecki");
-        System.out.println("3. KATARZYNA PARYS");
     }
 }
