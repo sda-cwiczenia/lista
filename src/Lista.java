@@ -7,5 +7,6 @@ public class Lista {
         System.out.println("3. Paweł Kondek ");
         System.out.println("4. Lukasz Zawadzki");
         System.out.println("5. Lukasz Nowacki");
+        System.out.println("7. Mateusz Filipek");
     }
 }
