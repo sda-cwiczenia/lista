@@ -3,7 +3,6 @@ public class Lista {
         System.out.println("LISTA OBECNOŚCI");
         System.out.println("---------------");
         System.out.println("1. Ireneusz Piątkowski ");
-        System.out.println("2. Pawel Kondek ");
-
+        System.out.println("2. Daniel Kazanecki");
     }
 }
