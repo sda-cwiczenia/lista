@@ -6,6 +6,6 @@ public class Lista {
         System.out.println("2. Daniel Kazanecki");
         System.out.println("3. Paweł Kondek ");
         System.out.println("4. Lukasz Zawadzki");
-        System.out.println("4. Lukasz Nowacki");
+        System.out.println("5. Lukasz Nowacki");
     }
 }
