@@ -14,5 +14,7 @@ public class Lista {
         System.out.println("10. Angelika Adamczewska");
         System.out.println("11. Lukasz Nowacki");
         System.out.println("12. Katarzyna Parys");
+        System.out.println("13.Kacper Broczek");
+
     }
 }
