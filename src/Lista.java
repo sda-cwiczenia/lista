@@ -10,5 +10,7 @@ public class Lista {
         System.out.println("6. Maciej Dzieciuchowicz");
         System.out.println("7.Dawid Ruciński");
         System.out.println("8. Jeszcze jeden test");
+        System.out.println("9. Anna Ginter");
+
     }
 }
