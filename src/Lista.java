@@ -11,9 +11,6 @@ public class Lista {
         System.out.println("7.Dawid Ruciński");
         System.out.println("8. Jeszcze jeden test");
         System.out.println("9. Mateusz Filipek");
-        System.out.println("9. Anna Ginter");
-
-        System.out.println("9. Jeszcze drugi test");
-
+        System.out.println("10. Anna Ginter");
     }
 }
